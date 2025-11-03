@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello Professor, This is Bobby Luznar I am in your CMSC313 class\n";
+    std::cout << "what is going on right now, i am attempting to push ok\n";
     return 0;
 }
 
